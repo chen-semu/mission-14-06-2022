@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+img{width: 33vw;}
+.img-div{width: 33vw;}
